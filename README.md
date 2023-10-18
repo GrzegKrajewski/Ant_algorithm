@@ -9,7 +9,3 @@ To control the ants' decision-making process, the algorithm employs two paramete
 In an ideal scenario, the number of ants should be equal to the count of points in the problem. This way, each ant can have its unique starting point, which helps localize the search and prevents redundancy in exploring the solution space.
 
 In summary, this Python code uses the Ant Colony Optimization algorithm to solve the Traveling Salesman Problem by finding the most efficient path that connects a set of random points in a two-dimensional space while taking into account both distance and pheromone information. It's a powerful approach for optimizing complex routing and path-finding problems.
-
-
-
-
